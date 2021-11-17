@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="definetti",
-    version="0.0.1",
+    version="0.0.2",
     description="Lottery like mechanisms",
     long_description=README,
     long_description_content_type="text/markdown",
